@@ -5,7 +5,7 @@ This is an extremely simple chat app source code of an iOS Swift Chat app. It le
 ## App Designs
 
 <div align="center">
-    <img src="https://github.com/samyka/iOS-chat-app/blob/master/SreenShot/os-chat-app.png" width="600px"</img>
+    <img src="https://github.com/samyka/iOS-chat-app/blob/master/SreenShot/os-chat-app.png" width="800px"</img>
 </div>
 
 <b> This project has now been updated to Swift 5. Make sure you run Xcode's Legacy Build System (File -> Workspace Settings).</b>
